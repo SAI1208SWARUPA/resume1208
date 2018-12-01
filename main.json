@@ -1,0 +1,56 @@
+{
+		
+		"profile":{
+		"img":"16.jpg",
+		"name":"sai swarupa",
+		"roll":"16NN1A1208",
+		"college":"vignan",
+		"place":"guntur"
+	},
+	"career":{"info":"I want a highly rewarding career where I can use my skills and knowledge for organizational and personal growth."},
+	"educational":[
+		{
+			"degree":"b.tech",
+			"institution":"vignan nirula",
+			"yop":"2020"
+		},
+		{
+			"degree":"intermediate",
+			"institution":"chaithanya junior college",
+			"yop":"2015"
+		},
+		{
+			"degree":"ssc",
+			"institution":"sri viswa santhi public school",
+			"yop":"2012"
+		}
+	],
+
+	"languages":[
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindi"
+		}
+	],
+	"skills":[
+		{
+			"title":"platform",
+			"content":"windown,linus"
+		},
+		{
+			"title":"programming",
+			"content":"c,c++,java,python,R"
+		},
+		{
+			"title":"database",
+			"content":"mysql"
+
+		}
+
+]
+}
